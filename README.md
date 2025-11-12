@@ -32,13 +32,12 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Autores 
 
-
-* **Mireia Pérez** - *Trabajo Inicial* - [Github](https://github.com/mirept)
-* **Pau Almendrote** - *Documentación* - [Github](https://github.com/normalatorre04)
-* **Aamna Noor Syed** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Pau Almendrote** - *Documentación* - [Github]()
 * **Jason Cardona** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 * **Laia Gombau** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Norma Latorre** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Norma Latorre** - *Documentación* - [fulanitodetal](https://github.com/normalatorre04)
+* **Aamna Noor Syed** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Mireia Pérez** - *Trabajo Inicial* - [Github](https://github.com/mirept)
 * **Guillem Rodríguez** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 ## Licencia 
