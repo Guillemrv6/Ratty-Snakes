@@ -33,12 +33,12 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 ## Autores 
 
 * **Pau Almendrote** - *Documentación* - [Github]()
-* **Jason Cardona** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Laia Gombau** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-* **Norma Latorre** - *Documentación* - [fulanitodetal](https://github.com/normalatorre04)
-* **Aamna Noor Syed** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Jason Cardona** - *Documentación* - [Github](https://github.com/orgs/Ratty-Snakes/people/jASoNLas3)
+* **Laia Gombau** - *Documentación* - [Github](https://github.com/orgs/Ratty-Snakes/people/laiagd)
+* **Norma Latorre** - *Documentación* - [Github](https://github.com/normalatorre04)
+* **Aamna Noor Syed** - *Documentación* - [Github](#fulanito-de-tal)
 * **Mireia Pérez** - *Trabajo Inicial* - [Github](https://github.com/mirept)
-* **Guillem Rodríguez** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Guillem Rodríguez** - *Documentación* - [Github](#fulanito-de-tal)
 
 ## Licencia 
 
